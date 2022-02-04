@@ -1,0 +1,7 @@
+-classpath '/Users/mengqilu/Desktop/CS5004/Lab1/build/classes/java/main:/Users/mengqilu/Desktop/CS5004/Lab1/build/resources/main'
+-d '/Users/mengqilu/Desktop/CS5004/Lab1/build/docs/javadoc'
+-doctitle 'Lab1 1.0 API'
+-notimestamp 
+-quiet 
+-windowtitle 'Lab1 1.0 API'
+'/Users/mengqilu/Desktop/CS5004/Lab1/src/main/java/Author.java'
