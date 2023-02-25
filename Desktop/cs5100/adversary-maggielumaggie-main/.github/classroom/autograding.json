@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "pytest",
+      "setup": "sudo -H pip3 install matplotlib networkx pytest",
+      "run": "pytest",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 2,
+      "points": null
+    }
+  ]
+}
